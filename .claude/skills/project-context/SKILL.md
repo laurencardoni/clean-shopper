@@ -25,7 +25,7 @@ Produce the following eight sections in order. For each section, extract and syn
 [A clear, specific description of the problem being solved and why it matters now. One to three sentences. Not a feature description -- the problem itself.]
 
 ## 2. ICP (Ideal Customer Profile)
-[Who specifically this is for, described behaviorally -- what they currently do, what they already know, what their relationship to the problem is. Never use age ranges, income brackets, or demographic categories. Focus on behavior and context.]
+[Who specifically this is for, described behaviorally. What are they currently doing? What do they already know or use? What is their relationship to the problem? Avoid demographics -- focus on behavior and context.]
 
 ## 3. Pain Points
 [What the user currently experiences that this product addresses. Specific friction, not assumed frustration. What fails them today?]
